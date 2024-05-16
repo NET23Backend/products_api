@@ -1,0 +1,148 @@
+# Ignore Visual Studio temporary files, build results, and
+# Include compiled binaries
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.history/
+
+# Auto-generated files by Visual Studio
+Generated\_Temporary\_Files/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Mac Finder files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS for Mac
+.vscode/
+.idea/
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+.idea_logs/
+
+# JetBrains Rider Code Indexes
+*.Index/
+
+# Rider project directories
+.idea/
+
+# OS-generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Directories for Third party
+third-party/
+
+# JetBrains Rider
+.idea/
+
+# Auto-generated files by Visual Studio
+Generated\_Temporary\_Files/
+
+# npm debug log
+npm-debug.log
+
+# npm logs
+npm-debug.log*
+
+# Temporary npm files
+npm-shrinkwrap.json
+
+# Optional npm cache directory
+.npm/
+
+# VS Code directories
+.vscode/
+.history/
+
+# Auto-generated files by Visual Studio
+Generated\_Temporary\_Files/
+
+# Windows image file caches
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Mac Finder files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Visual Studio Code (vscode)
+.vscode/
+
+# Rider project directories
+.idea/
+
+# JetBrains Rider
+.idea/
+
+# Directories for Third party
+third-party/
+
+# .NET SDK
+.vs/
+.vscode/
+.idea/
+
+# Rider Code Indexes
+*.Index/
+
+# Rider Cache
+.idea/
+.idea_modules/
+.idea_logs/
+
+# Azure Function App local settings file
+local.settings.json
